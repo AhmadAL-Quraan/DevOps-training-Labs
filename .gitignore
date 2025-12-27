@@ -2,6 +2,5 @@
 8)\ Serverless-HealthBooking/
 
 # Exclude all LibreOffice/Word lock files
-.~lock.*#
 
-
+2)\ Enterprise\ Linux\ Administration\ &\ Access\ Control\ Lab/.~lock*
