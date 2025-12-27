@@ -1,7 +1,7 @@
-# Ignore LibreOffice/Word lock files
-.~lock.*#
-# Ignore temporary Office files
-~$*
+# Ignore LibreOffice/Word lock files# Exclude the Serverless folder entirely
+8)\ Serverless-HealthBooking/
 
-8)\ Serverless-HealthBooking
-2)\ Enterprise\ Linux\ Administration\ \&\ Access\ Control\ Lab/~lock.*#
+# Exclude all LibreOffice/Word lock files
+.~lock.*#
+
+
