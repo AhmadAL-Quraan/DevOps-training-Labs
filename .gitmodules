@@ -13,3 +13,6 @@
 [submodule "8) Hosting-Your-Portfolio-on-AWS-S3-with-CloudFront-and-Route-53"]
 	path = 8) Hosting-Your-Portfolio-on-AWS-S3-with-CloudFront-and-Route-53
 	url = https://github.com/AhmadAL-Quraan/Hosting-Your-Portfolio-on-AWS-S3-with-CloudFront-and-Route-53
+[submodule "10) Final/1) HTU-Environment-Rebuild"]
+	path = 10) Final/1) HTU-Environment-Rebuild
+	url = https://github.com/AhmadAL-Quraan/HTU-Environment-Rebuild
