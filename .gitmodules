@@ -4,3 +4,6 @@
 [submodule "Github-task"]
 	path = Github-task
 	url = https://github.com/AhmadAL-Quraan/Github-task
+[submodule "11) Managing a Project with Git & GitHub/Github-task"]
+	path = 11) Managing a Project with Git & GitHub/Github-task
+	url = https://github.com/AhmadAL-Quraan/Github-task
